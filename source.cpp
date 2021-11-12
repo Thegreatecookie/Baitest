@@ -17,7 +17,13 @@ int main()
 	return 0;
 }
 
+<<<<<<< HEAD
 inht TinhHieu( int a,b )
 {
 	return a-b;
+=======
+int TinhTong(int a, b )
+{
+	return	 a+b;
+>>>>>>> 70f2a32ea9f6358d4828e19c99a8f21297615b08
 }
