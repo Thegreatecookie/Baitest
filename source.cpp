@@ -17,11 +17,7 @@ int main()
 	return 0;
 }
 
-<<<<<<< HEAD
-int tong(int a, int b)
-{
-	return a+b;
-=======
+
 <<<<<<< HEAD
 inht TinhHieu( int a,b )
 {
@@ -31,5 +27,5 @@ int TinhTong(int a, b )
 {
 	return	 a+b;
 >>>>>>> 70f2a32ea9f6358d4828e19c99a8f21297615b08
->>>>>>> bec85a0827e77bbfbe8bc8f8ed48605d2b877333
+
 }
