@@ -16,3 +16,8 @@ int main()
 	system("pause");
 	return 0;
 }
+
+inht TinhHieu( int a,b )
+{
+	return a-b;
+}
