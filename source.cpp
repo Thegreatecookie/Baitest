@@ -17,7 +17,7 @@ int main()
 	return 0;
 }
 
-int TinhTong(int a, b )
+int tong(int a, int b)
 {
-	return	 a+b;
+	return a+b;
 }
