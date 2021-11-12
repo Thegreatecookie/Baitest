@@ -16,3 +16,8 @@ int main()
 	system("pause");
 	return 0;
 }
+
+int TinhTong(int a, b )
+{
+	return	 a+b;
+}
