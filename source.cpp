@@ -27,11 +27,7 @@ inht TinhHieu( int a,b )
 {
 	return a-b;
 }
-int tich ( int a, int b)
-{
-<<<<<<< HEAD
-	return a*b;
-}
+
 =======
 	return	 a+b;
 >>>>>>> 70f2a32ea9f6358d4828e19c99a8f21297615b08
